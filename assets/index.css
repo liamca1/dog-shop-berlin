@@ -1,0 +1,13 @@
+.container-index {
+  height: 90vh;
+}
+
+.home {
+  height: 40vh;
+  background-color: coral;
+}
+
+.featured-products {
+  height: 50vh;
+  background-color: rgb(230, 192, 242);
+}/*# sourceMappingURL=index.css.map */
